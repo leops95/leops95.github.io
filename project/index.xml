@@ -17,7 +17,9 @@
       <link>https://leops95.github.io/project/sots/</link>
       <pubDate>Sun, 26 Jul 2020 18:23:57 +0200</pubDate>
       <guid>https://leops95.github.io/project/sots/</guid>
-      <description></description>
+      <description>&lt;p&gt;Usually held at the beginning of each year, U.S. governors give a public speech where they talk about the situation of their state. Frequency of the speech varies from state to state, as it is sometimes held every two year, or &amp;lsquo;from time to time&amp;rsquo;. They can be supported by an inauguration speech after an election year, or a state of the budget speech.&lt;/p&gt;
+&lt;p&gt;You will soon be able to find the data on my GitHub repository.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -25,7 +27,10 @@
       <link>https://leops95.github.io/project/unbudget/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://leops95.github.io/project/unbudget/</guid>
-      <description></description>
+      <description>&lt;p&gt;You can access my interactive app here: &lt;a href=&#34;https://leops95.shinyapps.io/unbudget&#34;&gt;https://leops95.shinyapps.io/unbudget&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Data can be found on my 
+&lt;a href=&#34;https://github.com/leops95/unbudget&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub repository&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
