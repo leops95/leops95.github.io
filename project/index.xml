@@ -27,7 +27,7 @@
       <link>https://leops95.github.io/project/unbudget/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://leops95.github.io/project/unbudget/</guid>
-      <description>&lt;p&gt;This is an interactive app for visualizing the amount and date of payment from Member States to the yearly United Nations Regular Budget.&lt;/p&gt;
+      <description>&lt;p&gt;This project is a dashboard for visualizing the amount and date of payment from Member States to the yearly United Nations Regular Budget.&lt;/p&gt;
 &lt;p&gt;You can access it here: &lt;a href=&#34;https://leops95.shinyapps.io/unbudget&#34;&gt;https://leops95.shinyapps.io/unbudget&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Data can be found on my 
 &lt;a href=&#34;https://github.com/leops95/unbudget&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub repository&lt;/a&gt;.&lt;/p&gt;

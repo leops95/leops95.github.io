@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>4 | Léo Picard</title>
-    <link>https://leops95.github.io/publication-type/4/</link>
-      <atom:link href="https://leops95.github.io/publication-type/4/index.xml" rel="self" type="application/rss+xml" />
-    <description>4</description>
+    <title>Publications | Léo Picard</title>
+    <link>https://leops95.github.io/publications/</link>
+      <atom:link href="https://leops95.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://leops95.github.io/images/icon_hua9b14ffd155978612141cfe2db398c66_6353_512x512_fill_lanczos_center_2.png</url>
-      <title>4</title>
-      <link>https://leops95.github.io/publication-type/4/</link>
+      <title>Publications</title>
+      <link>https://leops95.github.io/publications/</link>
     </image>
     
     <item>

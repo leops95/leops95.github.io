@@ -14,9 +14,9 @@
     
     <item>
       <title>Illicit financial flows and sustainable development: Panel-data evidence for Africa</title>
-      <link>https://leops95.github.io/publication/slany-2020/</link>
+      <link>https://leops95.github.io/publications/slany-2020/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://leops95.github.io/publication/slany-2020/</guid>
+      <guid>https://leops95.github.io/publications/slany-2020/</guid>
       <description>&lt;p&gt;The original version is also available at this address: &lt;a href=&#34;https://unctad.org/en/PublicationsLibrary/EDAR_2020_Background_paper_1_en.pdf&#34;&gt;https://unctad.org/en/PublicationsLibrary/EDAR_2020_Background_paper_1_en.pdf&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
@@ -36,7 +36,7 @@
       <link>https://leops95.github.io/project/unbudget/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://leops95.github.io/project/unbudget/</guid>
-      <description>&lt;p&gt;This is an interactive app for visualizing the amount and date of payment from Member States to the yearly United Nations Regular Budget.&lt;/p&gt;
+      <description>&lt;p&gt;This project is a dashboard for visualizing the amount and date of payment from Member States to the yearly United Nations Regular Budget.&lt;/p&gt;
 &lt;p&gt;You can access it here: &lt;a href=&#34;https://leops95.shinyapps.io/unbudget&#34;&gt;https://leops95.shinyapps.io/unbudget&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Data can be found on my 
 &lt;a href=&#34;https://github.com/leops95/unbudget&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub repository&lt;/a&gt;.&lt;/p&gt;
